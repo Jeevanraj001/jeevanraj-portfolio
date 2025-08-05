@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1><center>Muthayammal Engineering College</center></h1>
+    <h3>Department of Artificial intelligence and Data Science</h3>
+    <hr>
+    <h2><center>Student Portfolio</center></h2>
+    <p><center><b>Jeevanraj</b></center><br>
+        jeevanrajjeevan55@gmail.com | 6382094257<br>
+        Rasipuram, Namakkal District<br>
+        Tamil Nadu, India</p>
+        <hr>
+        <p><center>
+            <a href="#About">About Us</a>
+            <a href="#Education">Education</a>
+            <a href="#Features">Features</a>
+            <a href="#Contact">Contact Us</a>
+        </center></p>
+        <hr>
+        <h2><center>About Me</center></h2>
+        <p><center>Hello! I'm Jeevanraj, a passionate .</center></p>
+        <h2><center>Education</center></h2>
+         <table border="1" width="100%" cellspacing="0" cellpadding="6">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Year</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td> B.Tech in Artificial intelligence and Data Science
+    </td>
+    <td> Muthayammal Engineering College</td>
+    <td>(2022 - 2026)</td>
+    <td>6.9 CGPA</td>
+        </tr>
+        <tr>
+            <td>HSC</td>
+            <td> Sri Vidyaa Mandhir Metric Higher Secondary School</td>
+            <td> (2021 - 2022)</td>
+            <td> 60%</td>
+        </tr>
+        <tr>
+            <td>SSLC</td>
+            <td>Sri Vidyaa Mandhir Metric Higher Secondary School</td>
+            <td> (2019 - 2020)</td>
+            <td>73%</td>
+        </tr>
+       </table>
+       <h2>Features</h2>
+       <ul>
+        <li>Responsive design</li>
+        <li>Interaction UI</li>
+        <li>Easy Navigation</li>
+        <li>Asscssiblie Information</li>
+       </ul>
+       <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to reach out!</p>
+            Phone: 0987654321<br>
+            Email: jeevanrajjeevan55@gmail.com <br>
+            Address: Anna Malai Nagar,vennandur<br>
+            <hr>
+            <p><center>&copy 2025 Jeevanraj. All rights reserved.</center></p>
+</body>
+</html>
+       
+
